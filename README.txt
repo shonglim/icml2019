@@ -1,4 +1,4 @@
--- Main algorithm is implemented by the class KernelRL.
+-- The main algorithm is implemented by the class KernelRL.
 
    -- key interface method is learn_and_test_policy()
 
@@ -12,4 +12,3 @@
    -- The main function in each task runs some test experiments.
 
 -- Other classes are helpers.
-
